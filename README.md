@@ -5,4 +5,5 @@
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/biltoad/SQL_leetcode/tree/master/0577-employee-bonus) |
+| [1415-students-and-examinations](https://github.com/biltoad/SQL_leetcode/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
