@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/biltoad/SQL_leetcode/tree/master/0175-combine-two-tables) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/biltoad/SQL_leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/biltoad/SQL_leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/biltoad/SQL_leetcode/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/biltoad/SQL_leetcode/tree/master/0620-not-boring-movies) |
